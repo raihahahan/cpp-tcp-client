@@ -8,7 +8,7 @@ The demo program is to retrieve my public IP address, but this can be used for a
 
 ## 2. Installation
 
-- Note: this have only been tested on Mac M2
+- Note: this has only been tested on Mac M2
 
 ```
 make all
