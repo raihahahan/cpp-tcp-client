@@ -4,7 +4,7 @@
 
 The demo program is to retrieve my public IP address, but this can be used for any TCP request over SSL
 
-[Link](./demo.mov)
+[Go to demo](./demo.mov)
 
 ## 2. Installation
 
